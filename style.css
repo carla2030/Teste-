@@ -11,14 +11,3 @@ P{
     text-align: center;
     font-size: 20px;
 }
-.container img {
-    max-width: 200px;
-    max-height:250px;
-}
-.container {
-    clear: both;
-    margin-top: 20px;
-}
-img {
-    vertical-align: top
-}
