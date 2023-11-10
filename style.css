@@ -11,3 +11,7 @@ P{
     text-align: center;
     font-size: 20px;
 }
+img src{
+    image-orientation: center;
+    image-resolution: 5px;
+}
